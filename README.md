@@ -11,7 +11,7 @@ pip install numpy
 
 - `camera_calibration.py` : Camera calibration for "chessboard.mp4".
 - `pose_estimation_chessboard.py` : Perform camera pose estimation to draw the letter "C" on the chessboard.
-- `chessboard.mp4` : source video for program.
+- `chessboard.mp4` : Source video for program.
 - `c-board.gif` : Showing the result.
 
 ## How to use
