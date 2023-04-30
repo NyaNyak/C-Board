@@ -28,7 +28,7 @@ pip install numpy
   4.79149816e+00]
 ```
 4. Run the pose estimation code. <br/>
-5. You can see how the program works as below.
+5. You can see how the program works as below. (c-board.gif)
 
 <img src="https://github.com/NyaNyak/C-Board/blob/master/c-board.gif?raw=true" width="800" height="500"/>
 <br/>
